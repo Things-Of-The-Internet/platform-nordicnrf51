@@ -16,14 +16,16 @@
   "packageRepositories": [
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
     "http://dl.platformio.org/packages/manifest.json",
-    "framework-arduinonordicnrf5": [
-    {
-      "sha1": "758f7f9f79664288920c45a792d83bc001557b2c", 
-      "system": "*", 
-      "url": "https://github.com/sandeepmistry/arduino-nRF5/archive/0.5.1.tar.gz", 
-      "version": "0.5.1"
-    }    
-  ],     
+    { 
+      "framework-arduinonordicnrf5": [
+      {
+        "sha1": "758f7f9f79664288920c45a792d83bc001557b2c", 
+        "system": "*", 
+        "url": "https://github.com/sandeepmistry/arduino-nRF5/archive/0.5.1.tar.gz", 
+        "version": "0.5.1"
+      }    
+     ]
+    }
   ],
   "frameworks": {
     "arduino": {
