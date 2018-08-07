@@ -19,10 +19,10 @@
     { 
       "framework-arduinonordicnrf5": [
       {
-        "sha1": "758f7f9f79664288920c45a792d83bc001557b2c", 
+        "sha1": "ff347aafdded58a976f3641c0f37f0bbfd8fcd6a", 
         "system": "*", 
-        "url": "https://github.com/sandeepmistry/arduino-nRF5/archive/0.5.1.tar.gz", 
-        "version": "0.5.1"
+        "url": "https://github.com/Things-Of-The-Internet/arduino-nRF5/archive/0.5.1-alt.tar.gz", 
+        "version": "0.5.1-alt"
       }    
      ]
     }
@@ -45,7 +45,7 @@
     "framework-arduinonordicnrf5": {
       "type": "framework",
       "optional": true,
-      "version": "~0.5.1"
+      "version": ">=0.4.0"
     },
     "framework-mbed": {
       "type": "framework",
